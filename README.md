@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/pfsense-openvpn-wizard-crlf">pfsense-openvpn-wizard-crlf</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/pfsense-openvpn-wizard-crlf"><strong>https://abraxaslabs.tech/research/pfsense-openvpn-wizard-crlf</strong></a>
+</p>
+
 
 # pfsense-openvpn-wizard-crlf
 
